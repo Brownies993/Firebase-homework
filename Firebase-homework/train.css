@@ -1,0 +1,11 @@
+.container{
+   margin-top: 20px;
+   border-top-width: 20px;
+   margin-bottom: 20px;
+   background-color: peru;
+}
+
+.sumbit{
+    width: 50%;
+    margin: 1px;
+}
